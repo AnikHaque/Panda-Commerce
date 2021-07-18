@@ -1,0 +1,29 @@
+.header-bg{
+    background-color: #F2F4F4;
+}
+.navbar{
+    margin-bottom: 80px;
+}
+.shoes{
+    margin-top: 140px;
+}
+.card{
+    background-color: #F2F4F4;
+  
+}
+.backpacks{
+    margin-top: 140px;
+}
+.subscribe{
+    margin-top: 100px;
+}
+input{
+    color: #F2F4F4;
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+}
+h6{
+    color: gray;
+    font-weight: bolder;
+}
